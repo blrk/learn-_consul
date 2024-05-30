@@ -1,6 +1,6 @@
 # learn_consul
 * Check the version of the consul
-  ```bash
+```bash
 consul version 
 Consul v1.18.2
 Revision 9fc827ca
